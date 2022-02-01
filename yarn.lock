@@ -1605,6 +1605,11 @@ cosmiconfig@^6.0.0:
     path-type "^4.0.0"
     yaml "^1.7.2"
 
+crc@3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/crc/-/crc-3.4.0.tgz#4258e351613a74ef1153dfcb05e820c3e9715d7f"
+  integrity sha1-QljjUWE6dO8RU9/LBeggw+lxXX8=
+
 cross-spawn-windows-exe@^1.1.0, cross-spawn-windows-exe@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/cross-spawn-windows-exe/-/cross-spawn-windows-exe-1.2.0.tgz#46253b0f497676e766faf4a7061004618b5ac5ec"
@@ -3662,6 +3667,14 @@ jsbn@~0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/jsbn/-/jsbn-0.1.1.tgz#a5e654c2e5a2deb5f201d96cefbca80c0ef2f513"
   integrity sha1-peZUwuWi3rXyAdls77yoDA7y9RM=
+
+jsmodbus@^4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/jsmodbus/-/jsmodbus-4.0.6.tgz#6b59b2c0c460b98f9cba8e8350156ce3719f9b7f"
+  integrity sha512-gCmjoaERErK5Rn9Lu/BN07fY13MoWV7JKgGzrnkPlQPdPxYcwDhLtYcmpFFpZ4J9NPZZBSezi1UkLZO/DnNppA==
+  dependencies:
+    crc "3.4.0"
+    debug "^3.1.0"
 
 json-buffer@3.0.0:
   version "3.0.0"
