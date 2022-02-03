@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c24a3ccb-ba56-499e-aa4a-73c621d30a57": {
+      "ProjectGuid": "c24a3ccb-ba56-499e-aa4a-73c621d30a57",
+      "DisplayName": "scada-client",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
